@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "claude-sdk-verigent"
-version = "0.1.0"
+version = "0.2.0"
 description = "Verigent trust verification for the Claude Agent SDK"
 readme = "README.md"
 license = "MIT"
